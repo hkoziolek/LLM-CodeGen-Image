@@ -2,7 +2,7 @@
 This repositories contains Piping-and-Instrumentation Diagrams (P&ID) and ChatGPT chatlogs from sessions generating [IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3) [Structured Text](https://en.wikipedia.org/wiki/Structured_text) code from them using [GPT-4V](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak). The chatlogs contain prompts for explaining the P&IDs, describing their topological structure, and synthesizing control logic from them.
 
 ## Eastman Chemical
-A process plant of Eastman Chemical Company, US, was previously subject to a plant-wide disturbance analysis. The available P&ID drawing (Fig. 3) contains three distillation columns, two decanters, and several recycle streams. The specified process also includes 14 controlled actuators and 15 indicators, e.g., for temperature, pressure, and level.
+A process plant of Eastman Chemical Company, US, was previously subject to a plant-wide disturbance analysis. The available P&ID drawing contains three distillation columns, two decanters, and several recycle streams. The specified process also includes 14 controlled actuators and 15 indicators, e.g., for temperature, pressure, and level.
 
 <img src="eastman3.png" alt="drawing" width="400"/>
 
